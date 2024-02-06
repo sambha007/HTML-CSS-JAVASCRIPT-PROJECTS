@@ -1,0 +1,30 @@
+.nav{
+    height: 60px;
+    background-color: azure;
+    text-align: center;
+    padding-top: 25px;
+}
+a{
+    margin: 25px;
+    border: 2px solid black;
+    top: 25px;
+    left: 30px;
+}
+body{
+    background-color: black;
+}
+.key{
+    color: white;
+    text-align: center;
+    margin-top: 200px;
+    padding: 200px;
+
+}
+.color{
+    /*color: white;*/
+    color: white;
+    text-align: center;
+    margin-top: 200px;
+    padding: 200px;
+
+}
